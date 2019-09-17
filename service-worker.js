@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1d8779b695f35ac2f861185ef8753345"
+    "revision": "21c987a64f42d91c18fa83e09630f1be"
   },
   {
     "url": "assets/css/0.styles.9bda495d.css",
@@ -107,11 +107,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5333bcb3932c70b07c9962a78577fa76"
+    "revision": "aa3703fbf4b2273962448a4dd8748184"
   },
   {
     "url": "reference/directory-classifier.html",
-    "revision": "80b0b052a697bbeaa96e09ef2c6db542"
+    "revision": "64dbcd54ef8796251cd2c176e73366f5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
