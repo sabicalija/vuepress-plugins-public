@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a2f294928567c55836a91a710e684d13"
+    "revision": "efe7f8517a414a4047d4068fca3069ea"
   },
   {
     "url": "assets/css/0.styles.9bda495d.css",
@@ -66,8 +66,12 @@ self.__precacheManifest = [
     "revision": "8b029a2fcbf1e9d059f78e4ee6492a69"
   },
   {
-    "url": "assets/js/app.6ebdcf40.js",
-    "revision": "216670b96b67e7e64a504c6d4d767444"
+    "url": "assets/js/app.8b2073ec.js",
+    "revision": "ee7ef7e4595ffe6be1b74edbb6661e21"
+  },
+  {
+    "url": "hero-clean.svg",
+    "revision": "9ad9e07aeb8f504f27cb0e8a82e7f585"
   },
   {
     "url": "hero.png",
@@ -79,39 +83,39 @@ self.__precacheManifest = [
   },
   {
     "url": "icons/android-chrome-192x192.png",
-    "revision": "5375c113a1ae8623324e43bb2cab0460"
+    "revision": "eef01c0c37684a912a3bce3e45077236"
   },
   {
     "url": "icons/android-chrome-512x512.png",
-    "revision": "1cabba3777968588737cea6eda3c6824"
+    "revision": "979973d811cbf0e4980ca575d7d9894b"
   },
   {
     "url": "icons/apple-touch-icon.png",
-    "revision": "6318a586435ce0803c1ccb8a43893899"
+    "revision": "76172872b501a1950ddafcc2de74b5f6"
   },
   {
     "url": "icons/favicon-16x16.png",
-    "revision": "9fe8a4b9dd0cf8ba4a506861c43f51cc"
+    "revision": "19a4fad3650b0e4dc316b85f14dab757"
   },
   {
     "url": "icons/favicon-32x32.png",
-    "revision": "16663d289e22f0fe22de361df31668a9"
+    "revision": "c1c874cb198516447931b1b167ff85b6"
   },
   {
     "url": "icons/mstile-150x150.png",
-    "revision": "04d526b160b664068eebedb8578bed00"
+    "revision": "9b7a197979a41a1f9d36293bb7810e34"
   },
   {
     "url": "icons/safari-pinned-tab.svg",
-    "revision": "403f21ba1584699758daf4a1593f1730"
+    "revision": "e2c1442bfcc756230ffc1eec306a29c6"
   },
   {
     "url": "index.html",
-    "revision": "75ef2df6f557d22629ca09540805ca6f"
+    "revision": "64b1f5ea4fd3d0d91b5fcf791671246d"
   },
   {
     "url": "reference/directory-classifier.html",
-    "revision": "e0e729d8971790a14bea930ccfe2e45b"
+    "revision": "50ce3066256bed125be9582d88ea27cc"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
