@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7c8bb3f6d57e4999b38da24a09661961"
+    "revision": "a2f294928567c55836a91a710e684d13"
   },
   {
     "url": "assets/css/0.styles.9bda495d.css",
@@ -71,11 +71,11 @@ self.__precacheManifest = [
   },
   {
     "url": "hero.png",
-    "revision": "e0fda4e6bc8888d9db581024950f80a6"
+    "revision": "d7103bc1eb3b2a71575d8faa42211659"
   },
   {
     "url": "hero.svg",
-    "revision": "3168951d2dac70a9c9b7247105a0fff2"
+    "revision": "b9b774c069a87348acceaa3f83e4595a"
   },
   {
     "url": "icons/android-chrome-192x192.png",
