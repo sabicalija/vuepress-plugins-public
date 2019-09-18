@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "efe7f8517a414a4047d4068fca3069ea"
+    "revision": "73b903f176cf4faf957541890d7a1360"
   },
   {
     "url": "assets/css/0.styles.9bda495d.css",
@@ -70,8 +70,12 @@ self.__precacheManifest = [
     "revision": "ee7ef7e4595ffe6be1b74edbb6661e21"
   },
   {
-    "url": "hero-clean.svg",
+    "url": "hero-mac.svg",
     "revision": "9ad9e07aeb8f504f27cb0e8a82e7f585"
+  },
+  {
+    "url": "hero-ms.svg",
+    "revision": "d95dd2229e340fe0f8811416d86a3a27"
   },
   {
     "url": "hero.png",
@@ -83,31 +87,47 @@ self.__precacheManifest = [
   },
   {
     "url": "icons/android-chrome-192x192.png",
-    "revision": "eef01c0c37684a912a3bce3e45077236"
+    "revision": "5ff380647c4e16e068c1bd303337d632"
   },
   {
     "url": "icons/android-chrome-512x512.png",
-    "revision": "979973d811cbf0e4980ca575d7d9894b"
+    "revision": "420c5c19729c1262562fa060f611c36e"
   },
   {
     "url": "icons/apple-touch-icon.png",
-    "revision": "76172872b501a1950ddafcc2de74b5f6"
+    "revision": "7ea295af6811eb4a9caa9a8aa27ba947"
   },
   {
     "url": "icons/favicon-16x16.png",
-    "revision": "19a4fad3650b0e4dc316b85f14dab757"
+    "revision": "0cce6ab1e1d385328659ac7991ddfa47"
   },
   {
     "url": "icons/favicon-32x32.png",
-    "revision": "c1c874cb198516447931b1b167ff85b6"
+    "revision": "2704d9de2b45e82ff4502c63322973b3"
+  },
+  {
+    "url": "icons/mstile-144x144.png",
+    "revision": "529e020d15e22b4836242315334cb6bc"
   },
   {
     "url": "icons/mstile-150x150.png",
-    "revision": "9b7a197979a41a1f9d36293bb7810e34"
+    "revision": "2579bf0f6ab0c2be1531db9a01d3db06"
+  },
+  {
+    "url": "icons/mstile-310x150.png",
+    "revision": "0cd6d5a2aba974742e3ab902899cafaa"
+  },
+  {
+    "url": "icons/mstile-310x310.png",
+    "revision": "8d1e9f6524938095eace66f6a34bb6e3"
+  },
+  {
+    "url": "icons/mstile-70x70.png",
+    "revision": "d053a797cd345171cbd529d8458b99ce"
   },
   {
     "url": "icons/safari-pinned-tab.svg",
-    "revision": "e2c1442bfcc756230ffc1eec306a29c6"
+    "revision": "8bd9d52457adbabefce331e99bf7045b"
   },
   {
     "url": "index.html",

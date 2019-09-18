@@ -13,8 +13,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/vuepress-plugins-public/index.html",
   "theme_color": "#3eaf7c",
-  "background_color": "#ffffff",
-  "display": "fullscreen"
+  "background_color": "#3eaf7c",
+  "start_url": "https://sabicalija.github.io/vuepress-plugins-public/index.html",
+  "display": "standalone"
 }
